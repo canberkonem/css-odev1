@@ -1,0 +1,1 @@
+Patika.dev FrontEnd eğitimi CSS 1. ödev için hazırlanmıştır.
